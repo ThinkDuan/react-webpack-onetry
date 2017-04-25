@@ -1,0 +1,25 @@
+body{
+    background-color:blanchedalmond;
+    
+}
+.g_login{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top:10%;
+    background-color:bisque;
+}
+.g_login_right{
+    margin-left:50%;
+    text-align: center;
+    padding-top:200px;
+    background-color: burlywood;
+    
+
+}
+.g_login_right div{
+    margin-top:10px;
+}
+.g_login_right input{
+    border-radius: 5px;
+}
