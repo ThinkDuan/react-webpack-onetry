@@ -44,7 +44,7 @@ require ('styles/login.css');
                         <input type="submit" value="确认" />
                         <input type="reset" value="重置" />
                     </div>
-                </div> 
+                </div>
              </div>
          );
      }
