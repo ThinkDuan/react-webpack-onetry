@@ -3,9 +3,9 @@ import React from 'react';
 import {DatePicker} from 'antd';
 import {Row,Col} from 'antd';
 import {Carousel} from 'antd';
-import 'antd/lib/date-picker/style/css'
-import 'antd/lib/Row/style/css'
-class Login1 extends React.Component {   
+// import 'antd/lib/date-picker/style/css'
+// import 'antd/lib/Row/style/css'
+class Login1 extends React.Component{   
     render(){
         return(
             <div>
